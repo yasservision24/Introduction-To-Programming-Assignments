@@ -1,0 +1,25 @@
+file1.txt
+Scores:- 8.870762711864408
+five most used words in descending order of usage are ['and', 'of', 'communication', 'our', 'is']
+five randomly selected words are ['of', 'its', 'and', 'professional', 'and']
+
+file2.txt
+Scores:- 7.298809523809523
+five most used words in descending order of usage are ['and', 'communication', 'to', 'of', 'good']
+five randomly selected words are ['of', 'the', 'and', 'greater', 'coin']
+
+file3.txt
+Scores:- 7.252329749103943
+five most used words in descending order of usage are ['and', 'to', 'communication', 'the', 'of']
+five randomly selected words are ['both', 'become', 'can', 'is', 'aspect']
+
+file4.txt
+Scores:- 8.606666666666666
+five most used words in descending order of usage are ['and', 'communication', 'to', 'skills', 'the']
+five randomly selected words are ['skills', 'and', 'a', 'convey', 'styles']
+
+file5.txt
+Scores:- 7.315095155709343
+five most used words in descending order of usage are ['and', 'communication', 'of', 'to', 'the']
+five randomly selected words are ['Effective', 'of', 'the', 'clear', 'and']
+
